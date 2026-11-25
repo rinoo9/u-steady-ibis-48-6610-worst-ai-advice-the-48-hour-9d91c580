@@ -4,7 +4,7 @@
 
 # Worst AI Advice: The 48-Hour Tight Line Open
 
-One-line entry for the make.fun bounty "Worst AI Advice: The 48-Hour Tight Line Open". The program `main.py` deterministically writes a single line of the worst possible advice an AI could give — 97 characters — to `/output/entry.txt`: a cheerful assistant confidently tells the user to delete System32 to free up space, claiming Windows only keeps it around out of pure sentiment.
+One-line entry for the make.fun bounty "Worst AI Advice: The 48-Hour Tight Line Open". The program `main.py` deterministically writes a single line of the worst possible advice an AI could give — 131 characters — to `/output/entry.txt`: a cheerful assistant confidently tells the user to pour water on a laptop while it charges, claiming water and electricity cancel each other out so the battery lasts forever.
 
 ## Run it
 
